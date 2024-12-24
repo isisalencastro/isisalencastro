@@ -16,14 +16,14 @@ Sou Isis Beatriz de Alencastro, uma estudante autodidata apaixonada por tecnolog
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/isis5?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/isisalencastro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/isis5?tab=followers">
         <img 
             alt="Seguidores no GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/isis5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/isisalencastro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
