@@ -1,8 +1,8 @@
 # 🧑🏿‍💻 Isis Alencastro
 
-**`Gestora de tráfego | Gestora de automações`**
+**`Estudante de Ciência da Computação`**
 
-Sou Isis Beatriz de Alencastro, uma estudante autodidata apaixonada por tecnologia e inovação. Estou constantemente aprimorando minhas habilidades técnicas e interpessoais, explorando ferramentas e conceitos avançados no campo tecnológico. Além disso, compartilho minha jornada pessoal, acadêmica e profissional no meu canal do YouTube "[Isis Alencastro](https://www.youtube.com/@IsisAlencastro)", com o objetivo de inspirar outras pessoas que, assim como eu, são entusiastas da tecnologia e buscam desenvolvimento contínuo.
+Olá Mundo, sou a Isis Beatriz de Alencastro, estudante de Ciência da Computação apaixonada por tecnologia e inovação. Estou constantemente aprimorando minhas habilidades técnicas e interpessoais, explorando ferramentas e conceitos avançados no campo tecnológico. Além disso, compartilho minha jornada pessoal, acadêmica e profissional no meu canal do YouTube "[Isis Alencastro](https://www.youtube.com/@IsisAlencastro)", com o objetivo de inspirar outras pessoas que, assim como eu, são entusiastas da tecnologia e buscam desenvolvimento contínuo.
 
 <p>
     <a href="https://www.youtube.com/@IsisAlencastro?sub_confirmation=1">
