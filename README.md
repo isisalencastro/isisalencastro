@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Isis Alencastro ✨
+#  Isis Alencastro 
 
 ### *Full Stack by day, training models by night 🌙*
 
