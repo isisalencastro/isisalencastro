@@ -37,13 +37,6 @@ Desenvolvedora Full Stack e entusiasta de IA focada em criar aplicações inteli
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=isisalencastro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisalencastro&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=isisalencastro&theme=tokyonight&hide_border=true)
 
 </div>
