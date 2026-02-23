@@ -46,9 +46,9 @@ Desenvolvedora Full Stack e entusiasta de IA focada em criar aplicações inteli
 ## 🎯 Missão & Foco Atual
 
 - 🤖 Explorando o cruzamento entre **IA e experiência do usuário**
-- 🧩 Construindo automações inteligentes com **N8N + Python**
+- 🧩 Construindo automações inteligentes com **N8N + JavaScript**
 - 📊 Mergulhando em **dados e modelos preditivos**
-- ⚡ Sempre buscando o próximo nível em **Full Stack**
+- ⚡ Sempre buscando o próximo nível em **Desenvolvimento Web**
 
 ---
 
