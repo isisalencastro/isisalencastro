@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedora Full Stack e entusiasta de IA focada em criar aplicações inteligentes e centradas no usuário. Atuo em toda a stack — desde interfaces até pipelines de dados e modelos preditivos. Acredito que o melhor software é aquele que parece quase humano.
+Desenvolvedora Full Stack e entusiasta de IA focada em criar aplicações inteligentes e centradas no usuário. Atuo em toda a stack desde interfaces até pipelines de dados e modelos preditivos. Acredito que o melhor software é aquele que parece quase humano.
 
 > *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."*
 
