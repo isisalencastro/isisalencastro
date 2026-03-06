@@ -1,67 +1,188 @@
 <div align="center">
 
-#  Isis Beatriz de Alencastro 
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3FC1C9&height=200&section=header&text=Isis%20Beatriz%20de%20Alencastro&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Automation%20Specialist&descSize=16&descAlignY=55&descAlign=50"/>
 
-### *Full Stack by day, training models by night 🌙*
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Transformando+ideias+em+solu%C3%A7%C3%B5es+inteligentes;%F0%9F%A4%96+IA+%2B+Automa%C3%A7%C3%A3o+%2B+Desenvolvimento+Web;%E2%9C%A8+Dispon%C3%ADvel+para+Freelance+%26+Projetos" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- BADGES DE STATUS -->
+<img src="https://img.shields.io/badge/🟢_Disponível_para_Freelance-00C853?style=for-the-badge&logoColor=white" alt="Disponível para Freelance"/>
+<img src="https://img.shields.io/badge/📍_Brasil-0077B5?style=for-the-badge&logoColor=white" alt="Brasil"/>
+<img src="https://komarev.com/ghpvc/?username=isisalencastro&label=Visitantes+do+Perfil&color=6C63FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🧠 Sobre mim
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-Desenvolvedora Full Stack e entusiasta de IA focada em criar aplicações inteligentes e centradas no usuário. Atuo em toda a stack desde interfaces até pipelines de dados e modelos preditivos. Acredito que o melhor software é aquele que parece quase humano.
+## 🧠 Sobre Mim
 
-> *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."*
+```yaml
+nome: Isis Beatriz de Alencastro
+papel: Desenvolvedora Full Stack & Entusiasta de IA
+experiência:
+  - Desenvolvimento de aplicações web completas (frontend + backend)
+  - Automações inteligentes com N8N e integração de APIs
+  - Pipelines de dados e modelos preditivos com Python
+  - Interfaces centradas no usuário com foco em conversão
+diferenciais:
+  - Combino código limpo com inteligência artificial aplicada
+  - Entrego soluções end-to-end: do conceito ao deploy
+  - Foco em resultado e impacto real para o negócio
+disponibilidade: Aberta para freelance e oportunidades
+```
 
----
+> *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."* ☕
+
+<br/>
+
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 💼 O Que Posso Fazer Por Você
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Desenvolvimento Web
+Aplicações web modernas, responsivas e performáticas. Do landing page ao sistema completo.
+
+**Sites · Dashboards · SPAs · APIs**
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 IA & Automação
+Automações inteligentes que economizam tempo e reduzem custos operacionais.
+
+**Chatbots · Workflows · N8N · APIs de IA**
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Dados & Analytics
+Transformo dados brutos em insights acionáveis com visualizações claras.
+
+**Dashboards · Relatórios · Modelos Preditivos**
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🚀 Tech Stack & Arsenal
 
 <div align="center">
-  
+
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Banco de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+### 🤖 IA & Automação
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 🛠️ Ferramentas & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=isisalencastro&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisalencastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3FC1C9&text_color=C9D1D9&ring_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisalencastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
+
+<br/><br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=isisalencastro&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=3FC1C9&currStreakLabel=6C63FF)
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isisalencastro&bg_color=0D1117&color=6C63FF&line=3FC1C9&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
 
 </div>
 
----
+<br/>
 
-## 🎯 Missão & Foco Atual
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-- 🤖 Explorando o cruzamento entre **IA e experiência do usuário**
-- 🧩 Construindo automações inteligentes com **N8N + JavaScript**
-- 📊 Mergulhando em **dados e modelos preditivos**
-- ⚡ Sempre buscando o próximo nível em **Desenvolvimento Web**
-
----
-
-## 🤝 Vamos Conversar!
+## 🎯 Foco Atual & Roadmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isisalencastro)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alencastroisis@gmail.com)
+| 🔥 Agora | 📅 Próximos Passos | 🎯 Meta |
+|:---:|:---:|:---:|
+| IA + Experiência do Usuário | React / Next.js | Freelance Internacional |
+| Automações com N8N + JS | Machine Learning avançado | Portfólio de Impacto |
+| Dados & Modelos Preditivos | Cloud (AWS / GCP) | Projetos Open Source |
 
 </div>
+
+<br/>
+
+<!-- SEPARADOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🤝 Vamos Trabalhar Juntos?
+
+<div align="center">
+
+<p><strong>Tem um projeto em mente? Precisa de uma desenvolvedora dedicada?</strong></p>
+<p>Estou disponível para freelance, consultorias e oportunidades CLT/PJ.</p>
+
+<br/>
+
+<a href="https://linkedin.com/in/isisalencastro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:alencastroisis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/isisalencastro"><img src="https://img.shields.io/badge/💬_Solicitar_Orçamento-6C63FF?style=for-the-badge&logoColor=white" alt="Orçamento"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20melhor%20software%20%C3%A9%20aquele%20que%20parece%20quase%20humano.&author=Isis%20Alencastro" alt="Quote"/>
+
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3FC1C9&height=120&section=footer"/>
