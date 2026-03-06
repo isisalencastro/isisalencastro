@@ -22,22 +22,31 @@
 
 ## 🧠 Sobre Mim
 
-```yaml
-nome: Isis Beatriz de Alencastro
-papel: Desenvolvedora Full Stack & Entusiasta de IA
-experiência:
-  - Desenvolvimento de aplicações web completas (frontend + backend)
-  - Automações inteligentes com N8N e integração de APIs
-  - Pipelines de dados e modelos preditivos com Python
-  - Interfaces centradas no usuário com foco em conversão
-diferenciais:
-  - Combino código limpo com inteligência artificial aplicada
-  - Entrego soluções end-to-end: do conceito ao deploy
-  - Foco em resultado e impacto real para o negócio
-disponibilidade: Aberta para freelance e oportunidades
-```
+<div align="center">
+
+Desenvolvedora **Full Stack** e entusiasta de **Inteligência Artificial** focada em criar soluções que geram resultado real.
+
+</div>
+
+<br/>
+
+🚀 &nbsp; Construo aplicações web completas — do frontend ao backend — com código limpo e foco em performance
+
+🤖 &nbsp; Crio automações inteligentes com **N8N** e integração de **APIs de IA** que economizam tempo e reduzem custos
+
+📊 &nbsp; Trabalho com **dados e modelos preditivos** em Python, transformando informação em decisão
+
+🎯 &nbsp; Entrego soluções **end-to-end**: do conceito ao deploy, com foco em impacto para o negócio
+
+💡 &nbsp; Meu diferencial? Combino **desenvolvimento web** com **inteligência artificial aplicada** em cada projeto
+
+<br/>
+
+<div align="center">
 
 > *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."* ☕
+
+</div>
 
 <br/>
 
@@ -118,34 +127,14 @@ Transformo dados brutos em insights acionáveis com visualizações claras.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisalencastro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3FC1C9&text_color=C9D1D9&ring_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisalencastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
-
-<br/><br/>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=isisalencastro&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=3FC1C9&currStreakLabel=6C63FF)
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isisalencastro&bg_color=0D1117&color=6C63FF&line=3FC1C9&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isisalencastro&theme=tokyonight" width="95%"/>
 
-</div>
-
-<br/>
-
-<!-- SEPARADOR -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 🎯 Foco Atual & Roadmap
-
-<div align="center">
-
-| 🔥 Agora | 📅 Próximos Passos | 🎯 Meta |
-|:---:|:---:|:---:|
-| IA + Experiência do Usuário | React / Next.js | Freelance Internacional |
-| Automações com N8N + JS | Machine Learning avançado | Portfólio de Impacto |
-| Dados & Modelos Preditivos | Cloud (AWS / GCP) | Projetos Open Source |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isisalencastro&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isisalencastro&theme=tokyonight&utcOffset=-3" height="180em"/>
 
 </div>
 
