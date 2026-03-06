@@ -160,6 +160,19 @@ Transformo dados brutos em insights acionáveis com visualizações claras.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20melhor%20software%20%C3%A9%20aquele%20que%20parece%20quase%20humano.&author=Isis%20Alencastro" alt="Quote"/>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20melhor%20software%20%C3%A9%20aquele%20que%20parece%20quase%20humano.&author=Isis%20Alencastro" alt="Quote"/>
+
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <br/>
