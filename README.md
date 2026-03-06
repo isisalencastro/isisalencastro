@@ -160,8 +160,6 @@ Transformo dados brutos em insights acionáveis com visualizações claras.
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20melhor%20software%20%C3%A9%20aquele%20que%20parece%20quase%20humano.&author=Isis%20Alencastro" alt="Quote"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20melhor%20software%20%C3%A9%20aquele%20que%20parece%20quase%20humano.&author=Isis%20Alencastro" alt="Quote"/>
-
 </div>
 
 <br/>
