@@ -24,27 +24,60 @@
 
 <div align="center">
 
-Desenvolvedora **Full Stack** e entusiasta de **Inteligência Artificial** focada em criar soluções que geram resultado real.
-
-</div>
-
-<br/>
-
-🚀 &nbsp; Construo aplicações web completas — do frontend ao backend — com código limpo e foco em performance
-
-🤖 &nbsp; Crio automações inteligentes com **N8N** e integração de **APIs de IA** que economizam tempo e reduzem custos
-
-📊 &nbsp; Trabalho com **dados e modelos preditivos** em Python, transformando informação em decisão
-
-🎯 &nbsp; Entrego soluções **end-to-end**: do conceito ao deploy, com foco em impacto para o negócio
-
-💡 &nbsp; Meu diferencial? Combino **desenvolvimento web** com **inteligência artificial aplicada** em cada projeto
+<table>
+<tr>
+<td>
 
 <br/>
 
-<div align="center">
+<samp>Desenvolvedora **Full Stack** e entusiasta de **Inteligência Artificial** focada em criar soluções que geram resultado real para pessoas e negócios.</samp>
+
+<br/>
+
+<details>
+<summary>&nbsp; 🚀 &nbsp; <b>Desenvolvimento Web</b></summary>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; Aplicações web completas, do frontend ao backend, com código limpo e foco em performance.
+<br/><br/>
+</details>
+
+<details>
+<summary>&nbsp; 🤖 &nbsp; <b>IA & Automação</b></summary>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; Automações inteligentes com <b>N8N</b> e integração de <b>APIs de IA</b> que economizam tempo e reduzem custos.
+<br/><br/>
+</details>
+
+<details>
+<summary>&nbsp; 📊 &nbsp; <b>Dados & Analytics</b></summary>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; <b>Dados e modelos preditivos</b> em Python, transformando informação em decisão.
+<br/><br/>
+</details>
+
+<details>
+<summary>&nbsp; 🎯 &nbsp; <b>Entrega End-to-End</b></summary>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; Do conceito ao deploy, com foco em <b>impacto real</b> para o negócio.
+<br/><br/>
+</details>
+
+<details>
+<summary>&nbsp; 💡 &nbsp; <b>Meu Diferencial</b></summary>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; Combino <b>desenvolvimento web</b> com <b>inteligência artificial aplicada</b> em cada projeto.
+<br/><br/>
+</details>
+
+<br/>
 
 > *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."* ☕
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
