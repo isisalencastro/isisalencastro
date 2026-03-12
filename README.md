@@ -35,7 +35,7 @@
 <br/>
 
 <details>
-<summary>&nbsp; 🚀 &nbsp; <b>Desenvolvimento Web</b></summary>
+<summary>&nbsp; 🚀 &nbsp; <b>Desenvolvimento de Software</b></summary>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Aplicações web completas, do frontend ao backend, com código limpo e foco em performance.
 <br/><br/>
