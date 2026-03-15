@@ -93,7 +93,7 @@
 <tr>
 <td align="center" width="33%">
 
-### 🌐 Desenvolvimento Web
+### 🌐 Desenvolvimento de Software
 Aplicações web modernas, responsivas e performáticas. Do landing page ao sistema completo.
 
 **Sites · Dashboards · SPAs · APIs**
