@@ -49,23 +49,9 @@
 </details>
 
 <details>
-<summary>&nbsp; 📊 &nbsp; <b>Dados & Analytics</b></summary>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; <b>Dados e modelos preditivos</b> em Python, transformando informação em decisão.
-<br/><br/>
-</details>
-
-<details>
 <summary>&nbsp; 🎯 &nbsp; <b>Entrega End-to-End</b></summary>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Do conceito ao deploy, com foco em <b>impacto real</b> para o negócio.
-<br/><br/>
-</details>
-
-<details>
-<summary>&nbsp; 💡 &nbsp; <b>Meu Diferencial</b></summary>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Combino <b>desenvolvimento web</b> com <b>inteligência artificial aplicada</b> em cada projeto.
 <br/><br/>
 </details>
 
