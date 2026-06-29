@@ -93,14 +93,7 @@ Automações inteligentes que economizam tempo e reduzem custos operacionais.
 **Chatbots · Workflows · N8N · APIs de IA**
 
 </td>
-<td align="center" width="33%">
 
-### 📊 Dados & Analytics
-Transformo dados brutos em insights acionáveis com visualizações claras.
-
-**Dashboards · Relatórios · Modelos Preditivos**
-
-</td>
 </tr>
 </table>
 </div>
