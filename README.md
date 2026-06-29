@@ -34,29 +34,6 @@
 
 <br/>
 
-<details>
-<summary>&nbsp; 🚀 &nbsp; <b>Desenvolvimento de Software</b></summary>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Aplicações web completas, do frontend ao backend, com código limpo e foco em performance.
-<br/><br/>
-</details>
-
-<details>
-<summary>&nbsp; 🤖 &nbsp; <b>IA & Automação</b></summary>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Automações inteligentes com <b>N8N</b> e integração de <b>APIs de IA</b> que economizam tempo e reduzem custos.
-<br/><br/>
-</details>
-
-<details>
-<summary>&nbsp; 🎯 &nbsp; <b>Entrega End-to-End</b></summary>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Do conceito ao deploy, com foco em <b>impacto real</b> para o negócio.
-<br/><br/>
-</details>
-
-<br/>
-
 > *"Clean code, modelos bem treinados e café forte. Não necessariamente nessa ordem."* ☕
 
 <br/>
