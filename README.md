@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:8B5CF6&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20Forma%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Integrando+LLMs+ao+WhatsApp+Business;Construindo+em+p%C3%BAblico+%40+IBA+Studio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+em+p%C3%BAblico+%40+IBA+Estudio" alt="Typing SVG" />
 
 <br/>
 
@@ -30,15 +30,7 @@
 
 Estudante de Ciência da Computação (UniRitter, 2025–2029), nos primeiros semestres da graduação. Estou construindo experiência prática em desenvolvimento de software e automação com IA através de projetos reais, em paralelo à formação acadêmica.
 
-Colaborei no desenvolvimento de uma plataforma SaaS em produção, integrando LLMs (GPT-4, Claude) ao WhatsApp Business via N8N, com backend em PostgreSQL e busca vetorial semântica. Também contribuí para a digitalização de mais de 200.000 processos físicos no TJRS e apoiei a entrega de mais de 1.000 computadores recondicionados a escolas públicas do RS.
-
 Hoje meu foco é consolidar fluência prática em JavaScript, TypeScript e Python, e construir um portfólio completo de ponta a ponta a caminho da minha primeira vaga de estágio ou júnior.
-
-```yaml
-Aberta_a: "Estágio ou vaga júnior em desenvolvimento de software"
-Em_formação: "TypeScript avançado, Node.js/Express, React"
-Construindo: "IBA Studio — estúdio próprio de software e automações com IA (projeto/laboratório de portfólio)"
-```
 
 ---
 
@@ -46,24 +38,19 @@ Construindo: "IBA Studio — estúdio próprio de software e automações com IA
 
 **Linguagens**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,py" />
 
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 **Back-end & Dados**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
-&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=supabase" />
 
 **Ferramentas & Automação**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-&nbsp;
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,n8n" />
 
 ---
 
@@ -146,33 +133,6 @@ Landing page e protótipo funcional demonstrando capacidade de design de produto
 
 </details>
 
----
-
-### Experiência profissional
-
-**Recepcionista Terceirizada** · Prefeitura Municipal de Porto Alegre
-<br/>*Dezembro 2024 – Presente*
-
-Recepção e triagem de pacientes em unidades de saúde, gerenciamento de agendamentos e conferência de dados em conformidade com proteção de dados.
-
-**Desenvolvedora de Software (Freelancer)** · Agência Aria
-<br/>*Novembro 2025 – Maio 2026*
-
-Colaborei em integrações entre APIs externas, LLMs (GPT-4, Claude) e WhatsApp Business em ambiente de produção, incluindo arquitetura multi-tenant e busca semântica vetorial com PostgreSQL. Experiência de aprendizado real com um produto em produção — não uma posição atual.
-
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Estagiária** · Tribunal de Justiça do RS (TJRS)
-<br/>*Fevereiro 2024 – Agosto 2024*
-
-Higienização, digitalização e conferência de mais de 200.000 processos físicos, garantindo integridade documental para consulta eletrônica.
-
-**Jovem Aprendiz** · PROCERGS
-<br/>*Janeiro 2023 – Dezembro 2023*
-
-Montagem, manutenção e otimização de computadores do Projeto Sustentare, com apoio na entrega de mais de 1.000 equipamentos a escolas e organizações sociais do RS.
 
 ---
 
@@ -183,13 +143,6 @@ Montagem, manutenção e otimização de computadores do Projeto Sustentare, com
 | Digitalização documental | +200.000 processos físicos processados no TJRS |
 | Recondicionamento de equipamentos | +1.000 computadores entregues a escolas públicas do RS |
 | Produto em produção | Integração LLM + WhatsApp Business em uso real de negócio |
-
----
-
-### Formação
-
-- **Bacharelado em Ciência da Computação** — UniRitter (Fev 2025 – Jan 2029, em andamento)
-- **Ensino Médio Técnico** — Escola Técnica Estadual Parobé (Fev 2021 – Dez 2023)
 
 ---
 
@@ -222,15 +175,10 @@ Montagem, manutenção e otimização de computadores do Projeto Sustentare, com
 
 ---
 
-<!--
-Animação de contribuições (snake) — requer configurar uma GitHub Action no repositório
-isisalencastro/isisalencastro para gerar o SVG automaticamente. Posso montar o workflow
-.yml se você quiser ativar isso.
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
--->
+
 
 ### Contato
 
