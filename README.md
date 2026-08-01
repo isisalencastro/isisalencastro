@@ -40,8 +40,7 @@
 
 **Dados & Organização**
 <br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://skillicons.dev/icons?i=supabase,notion,obsidian" alt="Supabase, Notion e Obsidian" />
 
 **Ferramentas**
 <br/>
