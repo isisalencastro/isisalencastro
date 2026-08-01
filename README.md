@@ -28,46 +28,29 @@
 
 ### Stack
 
-**Linguagens**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py" />
-
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS" />
 
-**Back-end & Dados**
-<br/>
-<img src="https://skillicons.dev/icons?i=supabase" />
-
-**Ferramentas & Automação**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Ferramentas" />
+**Automação & IA**
 <br/>
 <img src="https://cdn.simpleicons.org/n8n/64748b" alt="n8n" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/anthropic/64748b" alt="Claude" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/openai/64748b" alt="GPT" width="48" height="48" />
+
+**Dados & Organização**
+<br/>
+<img src="https://cdn.simpleicons.org/supabase/64748b" alt="Supabase" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/notion/64748b" alt="Notion" width="48" height="48" />
+
+**Ferramentas**
+<br/>
+<img src="https://cdn.simpleicons.org/git/64748b" alt="Git" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/github/64748b" alt="GitHub" width="48" height="48" />
+<img src="https://cdn.simpleicons.dev/vscode?theme=light&color=64748b" alt="VSCode" width="48" height="48" />
 
 ---
 
-### IA & Automação
-
-| Domínio | Nível | Detalhes |
-|---|---|---|
-| Integração de LLMs | Aplicado em produção | GPT-4 e Claude API conectados a fluxos de atendimento via WhatsApp Business |
-| Busca vetorial / Embeddings | Aplicado | Busca semântica vetorial em PostgreSQL para módulo de atendimento inteligente |
-| Engenharia de prompt | Aplicado | Scoring e qualificação automatizada (GPT-4o-mini) em pipelines de dados reais |
-| Automação com N8N | Aplicado | Pipelines end-to-end conectando APIs externas, IA e bancos de dados |
-
----
-
-### Marcos
-
-| Marco | Detalhe |
-|---|---|
-| Digitalização documental | +200.000 processos físicos processados no TJRS |
-| Recondicionamento de equipamentos | +1.000 computadores entregues a escolas públicas do RS |
-| Produto em produção | Integração LLM + WhatsApp Business em uso real de negócio |
-
----
 
 <div align="center">
 
