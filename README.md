@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20Forma%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F3F4F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+em+p%C3%BAblico+%40+IBA+Estudio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F3F4F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;@IBAEstudio" alt="Typing SVG" />
 
 <br/>
 
@@ -34,17 +34,15 @@
 
 **Automação & IA**
 <br/>
-<img src="https://img.shields.io/badge/N8N-1F2937?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/GPT-4B5563?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+<img src="https://skillicons.dev/icons?i=n8n,claude,gpt" alt="n8n, Claude e GPT" />
 
 **Dados & Organização**
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase,notion,obsidian" alt="Supabase, Notion e Obsidian" />
+<img src="https://skillicons.dev/icons?i=supabase,notion" alt="Supabase e Notion" />
 
-**Ferramentas**
+**Ferramentas & Deploy**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, Github, Vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,premiere" alt="Git, GitHub, VSCode, Docker, Vercel, Linux e Premiere" />
 
 ---
 
