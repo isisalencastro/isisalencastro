@@ -34,20 +34,15 @@
 
 **Automação & IA**
 <br/>
-<img src="https://cdn.simpleicons.org/n8n/64748b" alt="n8n" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/anthropic/64748b" alt="Claude" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/openai/64748b" alt="GPT" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=n8n,claude,gpt" alt="n8n, Claude e GPT" />
 
 **Dados & Organização**
 <br/>
-<img src="https://cdn.simpleicons.org/supabase/64748b" alt="Supabase" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/notion/64748b" alt="Notion" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=supabase,notion" alt="Supabase e Notion" />
 
 **Ferramentas**
 <br/>
-<img src="https://cdn.simpleicons.org/git/64748b" alt="Git" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/github/64748b" alt="GitHub" width="48" height="48" />
-<img src="https://cdn.simpleicons.dev/vscode?theme=light&color=64748b" alt="VSCode" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VSCode" />
 
 ---
 
