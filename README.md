@@ -49,7 +49,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,premiere" alt="Git, GitHub, VSCode, Docker, Vercel, Linux e Premiere" />
 
 </div>
----
 
 
 <div align="center">
