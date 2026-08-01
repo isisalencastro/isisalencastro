@@ -36,7 +36,7 @@
 
 **Automação & IA**
 <br/>
-<img src="https://cdn-icons-png.flaticon.com/512/2043/2043061.png" alt="n8n" width="48" height="48" />
+<img src="https://lobehub.com/icons/n8n.png" alt="n8n" width="48" height="48" />
 <img src="https://cdn-icons-png.flaticon.com/512/16806/16806607.png" alt="Claude" width="48" height="48" />
 <img src="https://cdn-icons-png.flaticon.com/512/16210/16210845.png" alt="GPT" width="48" height="48" />
 
