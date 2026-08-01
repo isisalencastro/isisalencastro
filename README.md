@@ -36,9 +36,9 @@
 
 **Automação & IA**
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" height="48" style="margin-right:8px;" />
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/claude.svg" alt="Claude" height="48" style="margin-right:8px;" />
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png" alt="n8n" height="48" style="margin-right:8px;" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/claudecode-color.png" alt="Claude" height="48" style="margin-right:8px;" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png" alt="GPT" height="48" />
 
 **Dados & Organização**
 <br/>
