@@ -26,6 +26,8 @@
 
 ---
 
+<div align="center">
+
 ### Stack
 
 **Front-end**
@@ -34,7 +36,9 @@
 
 **Automação & IA**
 <br/>
-<img src="https://skillicons.dev/icons?i=n8n,claude,gpt" alt="n8n, Claude e GPT" />
+<img src="https://cdn-icons-png.flaticon.com/512/2043/2043061.png" alt="n8n" width="48" height="48" />
+<img src="https://cdn-icons-png.flaticon.com/512/16806/16806607.png" alt="Claude" width="48" height="48" />
+<img src="https://cdn-icons-png.flaticon.com/512/16210/16210845.png" alt="GPT" width="48" height="48" />
 
 **Dados & Organização**
 <br/>
@@ -44,6 +48,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,premiere" alt="Git, GitHub, VSCode, Docker, Vercel, Linux e Premiere" />
 
+</div>
 ---
 
 
@@ -58,15 +63,6 @@
 
 </div>
 
-<details>
-<summary><strong>Trophies</strong></summary>
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=isisalencastro&theme=flat&no-frame=true&row=1&column=6" />
-</div>
-
-</details>
 
 <div align="center">
 
@@ -89,8 +85,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-64748B?style=flat-square&logo=vercel&logoColor=white)](https://isisalencastro.site/)
 
 <div align="center">
-
-*Aprendendo em público, construindo com o que já sei e sendo honesta sobre o que ainda não sei.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,100:374151&height=100&section=footer" width="100%"/>
 
