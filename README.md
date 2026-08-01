@@ -34,15 +34,20 @@
 
 **Automação & IA**
 <br/>
-<img src="https://skillicons.dev/icons?i=n8n,claude,gpt" alt="n8n, Claude e GPT" />
+<img src="https://img.shields.io/badge/N8N-1F2937?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/GPT-4B5563?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
 
 **Dados & Organização**
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase,notion" alt="Supabase e Notion" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 
 **Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e VSCode" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 
 ---
 
