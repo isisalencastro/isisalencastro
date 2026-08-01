@@ -38,7 +38,7 @@
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png" alt="n8n"  height="48" />
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/claudecode-color.png" alt="Claude Code"  height="48" />
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/openai.png" alt="GPT" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openai-light.png" alt="GPT" height="48" />
 
 **Dados & Organização**
 <br/>
