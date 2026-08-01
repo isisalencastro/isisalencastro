@@ -36,7 +36,9 @@
 
 **Automação & IA**
 <br/>
-<img src="https://skillicons.dev/icons?i=n8n,claude,gpt" alt="n8n, Claude e GPT" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/n8n.svg" alt="n8n" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/claude.svg" alt="Claude" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/openai.svg" alt="GPT" height="48" />
 
 **Dados & Organização**
 <br/>
