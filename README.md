@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20em%20Forma%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20software%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F3F4F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Founder+of+@IBAEstudios;@IBAEstudio" alt="Typing SVG" />
 
