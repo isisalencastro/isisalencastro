@@ -32,7 +32,7 @@
 
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML e CSS" />
 
 **Automação & IA**
 <br/>
