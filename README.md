@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20software%20%7C%20Automa%C3%A7%C3%A3o%20com%20IA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20e%20AI%20Engineer%20%7C%20IA%20aplicada&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F3F4F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Founder+of+@IBAEstudios" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=374151&center=true&vCenter=true&width=760&lines=IA+aplicada%3A+LLM%2C+RAG+e+agentes+em+produ%C3%A7%C3%A3o;Python%2C+TypeScript+e+SQL;Automa%C3%A7%C3%A3o+com+n8n+e+APIs" alt="Typing SVG" />
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/UniRitter-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-374151?style=flat-square)
 ![Location](https://img.shields.io/badge/Porto%20Alegre-RS%2C%20Brasil-374151?style=flat-square&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Foco-IA%20aplicada-185CB6?style=flat-square)
 
 <br/>
 
@@ -26,30 +27,46 @@
 
 ---
 
+## Sobre
+
+Desenvolvedora de software e AI Engineer, com foco em IA aplicada: colocar modelo de linguagem dentro de sistema que roda de verdade.
+
+- **IA aplicada:** integração de LLM (GPT-4 e Claude) ao WhatsApp Business em plataforma SaaS em produção, backend PostgreSQL com busca semântica vetorial (RAG), saída do modelo em JSON estruturado e agentes de atendimento.
+- **Automação:** fluxos em n8n conectando banco de dados, modelo e canal de mensagem, com acompanhamento de custo e uso das APIs por fluxo.
+- **Dados:** pipelines de ponta a ponta, da coleta por API e fonte pública até a limpeza, deduplicação e carga em CRM.
+- **Projetos próprios:** FamilyHub (app desktop em Tauri + React), portfolio, GameTools, Prompt Manager e o radar de vagas de estágio.
+- Estudante de Ciência da Computação na UniRitter e fundadora do meu estúdio de tecnologia (@IBAEstudios).
+- **Buscando:** estágio ou posição júnior em desenvolvimento de software e IA aplicada.
+
+---
+
 <div align="center">
 
 ### Stack
 
+**Linguagens**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql" alt="Python, TypeScript, JavaScript e SQL" />
+
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML e CSS" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS e Tailwind" />
 
-**Automação & IA**
+**Back-end & Dados**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" alt="Node.js, PostgreSQL e Supabase" />
+
+**IA & Automação**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png" alt="n8n" height="48" style="margin-right:8px;" />
 <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/claudecode-color.png" alt="Claude" height="48" style="margin-right:8px;" />
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chatgpt.png" alt="GPT" height="48" />
 
-**Dados & Organização**
-<br/>
-<img src="https://skillicons.dev/icons?i=supabase,notion" alt="Supabase e Notion" />
-
 **Ferramentas & Deploy**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux,premiere" alt="Git, GitHub, VSCode, Docker, Vercel, Linux e Premiere" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" alt="Git, GitHub, VSCode, Vercel e Linux" />
 
 </div>
-
 
 <div align="center">
 
@@ -62,7 +79,6 @@
 
 </div>
 
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=isisalencastro&theme=github-light&bg_color=ffffff&color=374151&line=64748B&point=111827&hide_border=true" width="100%"/>
@@ -74,7 +90,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/isisalencastro/isisalencastro/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
-
 
 ### Contato
 
