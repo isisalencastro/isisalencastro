@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20e%20AI%20Engineer%20%7C%20IA%20aplicada&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:64748B&height=200&section=header&text=Isis%20Alencastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20de%20Software%20%7C%20AI%20Engineer%20%7C%20Criadora%20de%20Conte%C3%BAdo&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=374151&center=true&vCenter=true&width=760&lines=IA+aplicada%3A+LLM%2C+RAG+e+agentes+em+produ%C3%A7%C3%A3o;Python%2C+TypeScript+e+SQL;Automa%C3%A7%C3%A3o+com+n8n+e+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1400&color=374151&center=true&vCenter=true&width=760&lines=Desenvolvedora+de+Software+%7C+AI+Engineer+%7C+Criadora+de+Conte%C3%BAdo;IA+aplicada%3A+LLM%2C+RAG+e+agentes+em+produ%C3%A7%C3%A3o;Python%2C+TypeScript+e+SQL;Automa%C3%A7%C3%A3o+com+n8n+e+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -29,12 +29,15 @@
 
 ## Sobre
 
-Desenvolvedora de software e AI Engineer, com foco em IA aplicada: colocar modelo de linguagem dentro de sistema que roda de verdade.
+**Desenvolvedora de Software | AI Engineer | Criadora de Conteúdo.**
+
+Coloco modelo de linguagem dentro de sistema que roda de verdade, e mostro o caminho em conteúdo no LinkedIn e no YouTube.
 
 - **IA aplicada:** integração de LLM (GPT-4 e Claude) ao WhatsApp Business em plataforma SaaS em produção, backend PostgreSQL com busca semântica vetorial (RAG), saída do modelo em JSON estruturado e agentes de atendimento.
 - **Automação:** fluxos em n8n conectando banco de dados, modelo e canal de mensagem, com acompanhamento de custo e uso das APIs por fluxo.
 - **Dados:** pipelines de ponta a ponta, da coleta por API e fonte pública até a limpeza, deduplicação e carga em CRM.
 - **Projetos próprios:** FamilyHub (app desktop em Tauri + React), portfolio, GameTools, Prompt Manager e o radar de vagas de estágio.
+- **Conteúdo:** escrevo e gravo sobre a minha jornada como desenvolvedora, no LinkedIn e no YouTube.
 - Estudante de Ciência da Computação na UniRitter e fundadora do meu estúdio de tecnologia (@IBAEstudios).
 - **Buscando:** estágio ou posição júnior em desenvolvimento de software e IA aplicada.
 
