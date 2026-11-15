@@ -11,7 +11,7 @@
   <a href="https://github.com/isisalencastro"><img src="https://img.shields.io/badge/GitHub-64748B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<sub>📍 Porto Alegre, RS &nbsp;•&nbsp; 🎓 Ciência da Computação na UniRitter &nbsp;•&nbsp; 🚀 Fundadora do @IBAEstudios</sub>
+<sub>📍 Porto Alegre, RS &nbsp;•&nbsp; 🎓 Ciência da Computação na UniRitter &nbsp;•&nbsp; 🎮 Fundadora da <a href="https://www.ibaestudio.com">IBA Estúdio</a>, estúdio de jogos e animação para marcas</sub>
 
 </div>
 
